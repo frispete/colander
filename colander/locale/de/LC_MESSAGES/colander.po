@@ -145,7 +145,7 @@ msgstr "\"${val}\" hat kein __name__ Attribut"
 #: colander/__init__.py:1593
 #, python-format
 msgid "\"${val}\" is not a string"
-msgstr "${val} ist keine Zeichenkette"
+msgstr "\"${val}\" ist keine Zeichenkette"
 
 #: colander/__init__.py:1602
 #, python-format
@@ -178,7 +178,7 @@ msgstr "\"${val}\" ist kein Time-Objekt"
 #: colander/tests/test_colander.py:334 colander/tests/test_colander.py:341
 #, python-format
 msgid "fail ${val}"
-msgstr "fehlgeschlagen"
+msgstr "fehlgeschlagen ${val}"
 
 #: colander/tests/test_colander.py:537
 #, python-format
